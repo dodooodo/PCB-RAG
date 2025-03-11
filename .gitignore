@@ -1,6 +1,8 @@
 # data
 question.json
+.question.json
 ground_truth.json
+.ground_truth.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
